@@ -28,7 +28,7 @@ function HeroSection() {
               <div className='flex flex-col pr-4'>
                 <p className='font-medium text-[13px]'>عنوان النص</p>
                 <p className='text-[13px] leading-4 w-32'>
-                  كاوية الشعر الاحترافية محمد علي حس الالمانية
+                  لوريم ايبسوم هو ببساطة نص شكلي
                 </p>
               </div>
             </div>
@@ -43,7 +43,7 @@ function HeroSection() {
               <div className='flex flex-col pr-4'>
                 <p className='font-medium text-[12px]'>عنوان النص</p>
                 <p className='text-[12px] leading-4 w-32'>
-                  كاوية الشعر الاحترافية محمد علي حس الالمانية
+                  لوريم ايبسوم هو ببساطة نص شكلي
                 </p>
               </div>
             </div>
@@ -146,3 +146,4 @@ function HeroSection() {
 }
 
 export default HeroSection
+
